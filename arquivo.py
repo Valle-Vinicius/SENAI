@@ -13,3 +13,5 @@ for i in range(7):
         contadoracertos += 1
 
 print(f"Ao todo você teve {contadoracertos} acertos.")
+
+print("Agora eu estou na Branch Raiz 1! E não no arquivo original!")
