@@ -1,0 +1,3 @@
+Lógico ou Booleano
+- True para verdadeiro
+False para falso

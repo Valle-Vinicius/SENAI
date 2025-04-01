@@ -1,0 +1,5 @@
+Variáveis - Informações
+* Iniciar, Obrigatoriamente, com uma letra
+* Pode conter números e o caractere de sublinhado
+* Permite a utilização de acentos (conjunto de caracteres chamados UTF-8), a partir da verão 3
+* Exemplo: Nome, N1, media_Notas, etc.

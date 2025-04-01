@@ -1,0 +1,1 @@
+- Multiplataforma: Windows, Linux/Unix, MacOs

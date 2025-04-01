@@ -1,0 +1,7 @@
+== Igualdade
+> Maior que
+< Menor que
+!= Diferente
+>= Maior ou igual
+<= Menor ou igual 
+= Atribuição

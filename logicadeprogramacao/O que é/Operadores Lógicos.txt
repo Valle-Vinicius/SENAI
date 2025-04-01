@@ -1,0 +1,9 @@
+Operadores Lógicos:
+Not - Representa a operação de negação, também chamada de inversão.
+And - Resulta verdadeiro apenas quando sesus dois operadores forem verdadeiros
+
+Se o Valor1 for Verdadeiro e o Valor2 for Verdadeiro, o Resultado vai ser Verdadeiro
+Se o Valor1 for Verdadeiro e o Valor2 for Falso, o Resultado vai ser Falso
+Se o Valor1 for Falso, Valor2 for verdadeiro, o Resultado vai ser Falso
+
+Or - Resulta em falso apenas se seus dois operadores também forem falsos.

@@ -1,0 +1,1 @@
+- Legível: Indentação obrigatória. Não misturar Tabs e espaços.

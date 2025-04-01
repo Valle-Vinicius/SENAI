@@ -1,0 +1,1 @@
+- Tipagem forte e dinâmica: é possível atribuir qualquer tipo de valor a uma variável e em qualquer momento do código fonte

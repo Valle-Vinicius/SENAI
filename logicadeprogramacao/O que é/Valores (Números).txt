@@ -1,0 +1,3 @@
+Númericos 
+Inteiros (1, 2, 3, etc)
+Ponto Flutuante (1.33, 3.1515, 7.0, etc)

@@ -1,0 +1,7 @@
++ = Adição
+- = Subtração
+* = Multiplicação
+/ = Divisão
+/ = Divisão de inteiros
+** = Potenciação
+% = Módulo (Resto da divisão inteira)

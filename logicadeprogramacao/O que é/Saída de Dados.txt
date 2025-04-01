@@ -1,0 +1,3 @@
+SAÍDA DE DADOS:
+Print - Exibe uma mensagem na tela do computador!
+Input - Pede para o usuário inserir o valor.
